@@ -17,13 +17,12 @@
     </a>
 </p>
 
-#### Top Technologies
-
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=sharp&logoColor=white)
-
+<p align="center">
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=sharp&logoColor=white" alt="CSharp" />
+</p>
 
 #### Featured Projects
 
