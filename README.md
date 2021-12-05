@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/mario-kahlhofer" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.linkedin.com/in/mario-kahlhofer" target="_blank">
+    <a href="https://mario.ac/cv/" target="_blank">
         <img src="https://img.shields.io/badge/Resume-gray?style=flat-square&logo=dynatrace&logoColor=white" alt="Resume" />
     </a>
     <a href="https://twitter.com/blu3r4y_at" target="_blank">
