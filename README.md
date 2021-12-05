@@ -3,17 +3,20 @@
 <p align="center"> I like to write clean, useful code. Professionally, I am interested in Cyber Security and AI. </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mario-kahlhofer" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://mario.ac/cv/" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-gray?style=flat-square&logo=dynatrace&logoColor=white" alt="Resume" />
-    </a>
     <a href="https://twitter.com/blu3r4y_at" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
+    <a href="https://www.linkedin.com/in/mario-kahlhofer" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://scholar.google.com/citations?user=zLH6YHEAAAAJ" target="_blank">
+        <img src="https://img.shields.io/badge/Scholar-4285f4?style=flat-square&logo=googlescholar&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="mailto:mario.kahlhofer@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Mail" />
+    </a>
+    <a href="https://mario.ac/cv/" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-gray?style=flat-square&logo=dynatrace&logoColor=white" alt="Resume" />
     </a>
 </p>
 
@@ -24,7 +27,7 @@
     <a href="https://github.com/blu3r4y"><img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=sharp&logoColor=white" alt="CSharp" /></a>
 </p>
 
-<p align="center"> I am quite a language nerd. I like to write code in <a href="https://github.com/blu3r4y/AdventOfLanguages2020">many other languages</a>. </p>
+<p align="center"> I am quite a language nerd. I also like to write code in <a href="https://github.com/blu3r4y/AdventOfLanguages2020">many other languages</a>. </p>
 
 ### Featured Projects
 
