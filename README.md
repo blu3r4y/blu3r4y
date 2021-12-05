@@ -24,6 +24,8 @@
     <a href="https://github.com/blu3r4y"><img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=sharp&logoColor=white" alt="CSharp" /></a>
 </p>
 
+<p align="center"> I am quite a language nerd. I like to write code in <a href="https://github.com/blu3r4y/AdventOfLanguages2020">many other languages</a>. </p>
+
 ### Featured Projects
 
 🏛️ [**jku-room-search**](https://github.com/blu3r4y/jku-room-search) lets you find empty rooms on the JKU campus. <br/>
