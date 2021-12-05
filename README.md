@@ -2,10 +2,20 @@
 
 <p align="center"> I like to write clean, useful code. Professionally, I am interested in Cyber Security and AI. </p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-kahlhofer)
-[![CV](https://img.shields.io/badge/Resume-gray?style=flat-square&logo=dynatrace&logoColor=white)](https://www.linkedin.com/in/mario-kahlhofer)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/blu3r4y_at)
-[![Mail](https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mario.kahlhofer@gmail.com)
+<p align="center">
+    <a href="https://www.linkedin.com/in/mario-kahlhofer" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.linkedin.com/in/mario-kahlhofer" target="blank">
+        <img src="https://img.shields.io/badge/Resume-gray?style=flat-square&logo=dynatrace&logoColor=white" alt="Resume" />
+    </a>
+    <a href="https://twitter.com/blu3r4y_at" target="blank">
+        <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:mario.kahlhofer@gmail.com" target="blank">
+        <img src="https://img.shields.io/badge/-Mail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Mail" />
+    </a>
+</p>
 
 #### Top Technologies
 
