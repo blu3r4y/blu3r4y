@@ -1,4 +1,4 @@
-<img style="max-width: 100%;" src="images/blu3r4y-banner.jpg" />
+<img style="max-width: 100%;" src="blu3r4y-banner.jpg" />
 
 <p align="center"> I like to write clean, useful code. Professionally, I am interested in Cyber Security and AI. </p>
 
@@ -24,20 +24,20 @@
     <a href="https://github.com/blu3r4y"><img src="https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=sharp&logoColor=white" alt="CSharp" /></a>
 </p>
 
-#### Featured Projects
+### Featured Projects
 
-<img width="20" height="20" src="images/typescript.svg" />&nbsp; [**jku-room-search**](https://github.com/blu3r4y/jku-room-search) lets you find empty rooms on the JKU campus. <br/>
+🏛️ [**jku-room-search**](https://github.com/blu3r4y/jku-room-search) lets you find empty rooms on the JKU campus. <br/>
 
-<img width="20" height="20" src="images/docker.svg" /> [**dnsmasq-netbios**](https://github.com/blu3r4y/docker-dnsmasq-netbios) registers your NetBIOS names in your DNS server. <br/>
+🐬 [**dnsmasq-netbios**](https://github.com/blu3r4y/docker-dnsmasq-netbios) registers your NetBIOS names in your DNS server. <br/>
 
-<img width="20" height="20" src="images/python.svg" />&nbsp; [**pyforever**](https://github.com/blu3r4y/pyforever) re-executes a Python script whenever you modify it. <br/>
-<img width="20" height="20" src="images/python.svg" />&nbsp; [**blinkcheck**](https://github.com/blu3r4y/blinkcheck) is a basic dead link checker. <br/>
-<img width="20" height="20" src="images/python.svg" />&nbsp; [**ping-pong-mail-monitor**](https://github.com/blu3r4y/ping-pong-mail-monitor) monitors a mailserver by bouncing emails. <br/>
+♾️ [**pyforever**](https://github.com/blu3r4y/pyforever) re-executes a Python script whenever you modify it. <br/>
+🌎 [**blinkcheck**](https://github.com/blu3r4y/blinkcheck) is a basic dead link checker. <br/>
+🏓 [**ping-pong-mail-monitor**](https://github.com/blu3r4y/ping-pong-mail-monitor) monitors a mailserver by bouncing emails. <br/>
 
-<img width="20" height="20" src="images/markdown.svg" />&nbsp; [**python-for-java-developers**](https://github.com/blu3r4y/python-for-java-developers) teaches you Python. <br/>
+🎓 [**python-for-java-developers**](https://github.com/blu3r4y/python-for-java-developers) teaches you Python. <br/>
 
-<img width="20" height="20" src="images/csharp.svg" /> [**whiteparse**](https://github.com/blu3r4y/Whiteparse) is a reverse templating engine. <br/>
-<img width="20" height="20" src="images/csharp.svg" />&nbsp; [**mandelray**](https://github.com/blu3r4y/Mandelray) calculates the Mandelbrot set. <br/>
+㊙️ [**whiteparse**](https://github.com/blu3r4y/Whiteparse) is a reverse templating engine. <br/>
+🔯 [**mandelray**](https://github.com/blu3r4y/Mandelray) calculates the Mandelbrot set. <br/>
 
 ---
 
