@@ -30,13 +30,13 @@
 
 🐬 [**dnsmasq-netbios**](https://github.com/blu3r4y/docker-dnsmasq-netbios) registers your NetBIOS names in your DNS server. <br/>
 
-♾️ [**pyforever**](https://github.com/blu3r4y/pyforever) re-executes a Python script whenever you modify it. <br/>
-🌎 [**blinkcheck**](https://github.com/blu3r4y/blinkcheck) is a basic dead link checker. <br/>
-🏓 [**ping-pong-mail-monitor**](https://github.com/blu3r4y/ping-pong-mail-monitor) monitors a mailserver by bouncing emails. <br/>
+♾️ [**pyforever**](https://github.com/blu3r4y/pyforever) restarts a Python script whenever you modify it. <br/>
+🌎 [**blinkcheck**](https://github.com/blu3r4y/blinkcheck) checks for dead links in files. <br/>
+🏓 [**ping-pong-mail-monitor**](https://github.com/blu3r4y/ping-pong-mail-monitor) monitors a mailserver by bouncing mails. <br/>
 
-🎓 [**python-for-java-developers**](https://github.com/blu3r4y/python-for-java-developers) teaches you Python. <br/>
+🎓 [**python-for-java-developers**](https://github.com/blu3r4y/python-for-java-developers) teaches you Python with a Java background. <br/>
 
-㊙️ [**whiteparse**](https://github.com/blu3r4y/Whiteparse) is a reverse templating engine. <br/>
+㊙️ [**whiteparse**](https://github.com/blu3r4y/Whiteparse) is a reverse templating engine to easily parse data. <br/>
 🔯 [**mandelray**](https://github.com/blu3r4y/Mandelray) calculates the Mandelbrot set. <br/>
 
-<img align="right" float="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblu3r4y&count_bg=%23777&title_bg=%23333&icon=github.svg&icon_color=white&title=clicks%20daily%20/%20total&edge_flat=true" alt="hit counter" />
+<img align="right" float="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblu3r4y&count_bg=%23777&title_bg=%23333&icon=github.svg&icon_color=white&title=clicks&edge_flat=true" alt="hit counter" />
