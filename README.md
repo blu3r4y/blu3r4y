@@ -39,6 +39,4 @@
 ㊙️ [**whiteparse**](https://github.com/blu3r4y/Whiteparse) is a reverse templating engine. <br/>
 🔯 [**mandelray**](https://github.com/blu3r4y/Mandelray) calculates the Mandelbrot set. <br/>
 
----
-
-![Clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblu3r4y&count_bg=%23777&title_bg=%23333&icon=github.svg&icon_color=white&title=clicks%20daily%20/%20total&edge_flat=true)
+<img align="right" float="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblu3r4y&count_bg=%23777&title_bg=%23333&icon=github.svg&icon_color=white&title=clicks%20daily%20/%20total&edge_flat=true" alt="hit counter" />
