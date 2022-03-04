@@ -32,6 +32,7 @@
 ### Featured Projects
 
 🏛️ [**jku-room-search**](https://github.com/blu3r4y/jku-room-search) lets you find empty rooms on the JKU campus. <br/>
+🎄 [**more-aoc-leaderboards**](https://github.com/blu3r4y/more-aoc-leaderboards) generates alternative Advent of Code leaderboards. <br/>
 
 🐬 [**dnsmasq-netbios**](https://github.com/blu3r4y/docker-dnsmasq-netbios) registers your NetBIOS names in your DNS server. <br/>
 
