@@ -1,5 +1,7 @@
 <img style="max-width: 100%;" src="blu3r4y-banner.jpg" />
 
+<a rel="me" href="https://infosec.exchange/@blu3r4y"></a>
+
 <p align="center"> I like to write clean, useful code. Professionally, I am interested in Cyber Security and AI. </p>
 
 <p align="center">
